@@ -1,6 +1,5 @@
 import {v2 as cloudinary} from "cloudinary";
 
-import second from "dentenv"
 import { config } from "dotenv";
 
 config();
